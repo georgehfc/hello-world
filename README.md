@@ -1,4 +1,7 @@
 # hello-world
-feito na aula01, turma blend digital house.
+feito durante turma blend digital house
 
 branch develop
+
+# aula 04
+estilização de currículo
